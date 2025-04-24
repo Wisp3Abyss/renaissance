@@ -12,6 +12,6 @@ HOW TO USE IT:
 
 <icons>
   <line>
-    <icon name="Renaissance" ID="1" color="#666" locked="false" customName="true" customIcon="asset-v1/Icon.png" hidden="false"></icon>
+    <icon name="Renaissance" ID="1" color="#666" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
   </line>
 </icons>
