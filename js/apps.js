@@ -25,14 +25,14 @@ versions.v1 = {
       uniqsnd: !0, // ← !0 means that polo will use only _a audio, if its !1 - it will use _a and _b
     },
     {
-      name: "temp_polo",
+      name: "2_kick",
       color: "7D7D7D",
-      uniqsnd: !0,
+      uniqsnd: !1,
     },
     {
-      name: "temp_polo",
+      name: "3_snare",
       color: "7D7D7D",
-      uniqsnd: !0,
+      uniqsnd: !1,
     },
     {
       name: "temp_polo",
